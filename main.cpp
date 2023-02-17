@@ -16,7 +16,7 @@ int main() //MAIN
 	//Course title, language, StudentID, name
 	cout << "C867 - Scripting and Programming - Applications " << endl;
 	cout << "Language: C++" << endl;
-	cout << "Student ID# 001175784" << endl;
+	cout << "Student ID# " << endl;
 	cout << "Josh Breen" << endl;
 	cout << endl;
 
